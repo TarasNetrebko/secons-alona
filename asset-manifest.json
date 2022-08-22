@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/third-alona/static/css/main.7acaea2f.css",
+    "main.js": "/third-alona/static/js/main.636880dd.js",
+    "index.html": "/third-alona/index.html",
+    "main.7acaea2f.css.map": "/third-alona/static/css/main.7acaea2f.css.map",
+    "main.636880dd.js.map": "/third-alona/static/js/main.636880dd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.636880dd.js"
+  ]
+}
